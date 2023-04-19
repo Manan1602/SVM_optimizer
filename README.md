@@ -1,9 +1,8 @@
 # SVM_optimizer
 
-![image](https://user-images.githubusercontent.com/72727869/233184661-7d119342-dfc1-435c-9cc4-faab7deabcd0.png)
-
 
 	C	gamma	kernel	accuracy
+	_________________________________
 	0.1	1.00	linear	0.952402
 	0.1	1.00	poly	0.995996
 	0.1	1.00	linear	0.954330
@@ -33,3 +32,6 @@
 	10.0	0.01	linear	0.985172
 	10.0	0.01	poly	0.229834
 	10.0	0.01	sigmoid	0.956257
+
+#performance of best parameters over varying iterations
+![image](https://user-images.githubusercontent.com/72727869/233184661-7d119342-dfc1-435c-9cc4-faab7deabcd0.png)

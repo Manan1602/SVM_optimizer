@@ -35,4 +35,6 @@
 
 # performance of best parameters over varying iterations
 
+Iterations varying from 1 to 1000 with step size of 25
+
 ![image](https://user-images.githubusercontent.com/72727869/233184661-7d119342-dfc1-435c-9cc4-faab7deabcd0.png)
